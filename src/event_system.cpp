@@ -3,6 +3,7 @@
 #include "godot_cpp/variant/callable.hpp"
 #include "godot_cpp/variant/packed_string_array.hpp"
 #include "tag_manager.h"
+#include <algorithm>
 
 using namespace godot;
 
